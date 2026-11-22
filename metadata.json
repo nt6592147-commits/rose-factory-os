@@ -1,0 +1,6 @@
+{
+  "name": "ROSE — Factory Memory OS Assistant",
+  "description": "ROSE (Responsive Operational Support Entity) — Real-time voice-enabled AI assistant with a 3D holographic intelligence orb integrated into Factory Memory OS.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
